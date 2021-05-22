@@ -1,0 +1,37 @@
+.videoRaw{
+    display: flex;
+    margin-bottom: 30px;
+    max-width: 700px;
+}
+
+.videoRaw > img{
+    object-fit: contain;
+    width: 246px;
+    height: 138px;
+}
+
+.videoRaw__text{
+    margin-left: 14px;
+}
+
+.videoRaw__description{
+    margin-top: 20px;
+    font-size: 12px;
+    color: #606060;
+}
+
+.videoRaw__sub{
+    font-weight: bolder;
+    color: rgb(84,157,211);
+}
+
+.videoRaw__headline{
+    font-size: 12px;
+    color: #606060;
+}
+
+
+.videoRaw__subs{
+    background-color: lightgray;
+    padding: 2px;
+}
